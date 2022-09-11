@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BookReporting.Application/1.0.0": {
+        "dependencies": {
+          "BookReporting.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "BookReporting.Application.dll": {}
+        }
+      },
+      "BookReporting.Domain/1.0.0": {
+        "runtime": {
+          "BookReporting.Domain.dll": {}
+        }
+      },
+      "BookReporting.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BookReporting.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BookReporting.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookReporting.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookReporting.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookReporting.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

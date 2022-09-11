@@ -1,0 +1,52 @@
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.exe
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.deps.json
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.runtimeconfig.json
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.runtimeconfig.dev.json
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.dll
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.pdb
+C:\Users\denys\source\repos\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.csproj.AssemblyReference.cache
+C:\Users\denys\source\repos\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\source\repos\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.AssemblyInfoInputs.cache
+C:\Users\denys\source\repos\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.AssemblyInfo.cs
+C:\Users\denys\source\repos\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.csproj.CoreCompileInputs.cache
+C:\Users\denys\source\repos\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.dll
+C:\Users\denys\source\repos\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.pdb
+C:\Users\denys\source\repos\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.genruntimeconfig.cache
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.Application.dll
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.Application.pdb
+C:\Users\denys\source\repos\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.csproj.CopyComplete
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\wwwroot\Books\A Tale of Two Cities - Charles Dickens.txt
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\wwwroot\Books\Alices Adventures in Wonderland - Lewis Carroll.txt
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.Domain.dll
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.Infrastructure.dll
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.Domain.pdb
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.Infrastructure.pdb
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\denys\source\repos\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\wwwroot\Books\A Tale of Two Cities - Charles Dickens.txt
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\wwwroot\Books\Alices Adventures in Wonderland - Lewis Carroll.txt
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.exe
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.deps.json
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.runtimeconfig.json
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.runtimeconfig.dev.json
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.dll
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.pdb
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.Application.dll
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.Domain.dll
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.Infrastructure.dll
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.Application.pdb
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.Domain.pdb
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\bin\Debug\netcoreapp3.1\BookReporting.Infrastructure.pdb
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.csproj.AssemblyReference.cache
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.AssemblyInfoInputs.cache
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.AssemblyInfo.cs
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.csproj.CoreCompileInputs.cache
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.csproj.CopyComplete
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.dll
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.pdb
+C:\Users\denys\Documents\GitHub\BookReporting\BookReporting\obj\Debug\netcoreapp3.1\BookReporting.genruntimeconfig.cache
